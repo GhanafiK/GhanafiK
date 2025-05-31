@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A motivated Front-end Developer with over one year of experience in developing dynamic and <br>responsive web applications using Angular. Proficient in Angular, TypeScript, HTML, CSS. Collaborative <br>team player with a proven ability to work closely with designers, and stakeholders to deliver seamless <br>user experiences. Recognized for writing clean, maintainable, and testable code, as well as optimizing <br>application performance and user satisfaction. Passionate about continuous learning and leveraging <br>innovative solutions to solve complex problems.</p>
+<p align="left">A motivated Full-Stack Developer with over one year of experience in developing dynamic and responsive web applications using Angular and .NET. Proficient in Angular, TypeScript, HTML, CSS, C# and SQL Server. Skilled in building end-to-end solutions, from crafting intuitive user interfaces to implementing robust server-side logic and database management. Collaborative team player with a proven ability to work closely with designers, and stakeholders to deliver seamless user experiences. Recognized for writing clean, maintainable, and testable code, as well as optimizing application performance and user satisfaction. Passionate about continuous learning and leveraging innovative solutions to solve complex problems.</p>
 
 ###
 
@@ -41,7 +41,9 @@
   <li><a href="https://freshcart0.netlify.app"><i>FreshCart 🛒</i></a></li>
   <li><a href="https://ghanafik.github.io/Game-Over/"><i>Game Over 🎮</i></a></li>
   <li><a href="https://ghanafik.github.io/Yummy-Food/"><i>Yummy Food: A Delicious Meals App 😋🍽️</i></a></li>
-  <li><a href="https://github.com/GhanafiK/E-Commerce-API-Project.git"><i>E-Commerce-API-Project</i></a></li>
+  <li><a href="https://github.com/GhanafiK/E-Commerce-API-Project.git"><i> Ecommerce API - .NET 8</i></a></li>
+  <li><a href="https://github.com/GhanafiK/MVC-Project.git"><i>🏢 Employee Management System - ASP.NET MVC</i></a></li>
+  
 </ul>
 
 ###
